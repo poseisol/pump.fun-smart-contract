@@ -1,11 +1,11 @@
 [toolchain]
 
 [features]
-seeds = true
+resolution = true
 skip-lint = false
 
 [programs.devnet]
-bonding_curve = "5mdPUgyK9mqosLtqZvfpY5pcpCqQBWHuS3XoU34CrJK3"
+bonding_curve = "9p2wncgcSeX7BEHNPAv1UbxBFKqKzAueYaBsFAzVGGYt"
 
 [registry]
 url = "https://devnet.helius-rpc.com/?api-key=39d83ffa-585c-4f90-8636-2f6795db4cb3"
